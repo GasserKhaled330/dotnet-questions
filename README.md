@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <p style="font-weight: bold;" align="center">The ultimate .NET Interview Prep & Concept Memorization Toolkit.</p>
+  <p align="center"><strong>The ultimate .NET Interview Prep & Concept Memorization Toolkit.</strong></p>
   <p>
   A curated repository of essential .NET and C# questions and detailed answers designed for rapid learning and interview readiness. Quickly review core concepts, solidify your understanding, and memorize key details on OOP, ASP.NET Core, Entity Framework, LINQ, SOLID, and more.
   </p>
